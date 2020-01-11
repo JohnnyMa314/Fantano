@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Fantano.iml" filepath="$PROJECT_DIR$/.idea/Fantano.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/GoogleImageScrape/.idea/GoogleImageScrape.iml" filepath="$USER_HOME$/Documents/GitHub/GoogleImageScrape/.idea/GoogleImageScrape.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/standup_identity/.idea/stand-up_identity.iml" filepath="$USER_HOME$/Documents/GitHub/standup_identity/.idea/stand-up_identity.iml" />
     </modules>
   </component>
 </project>
